@@ -8,7 +8,7 @@ using Microsoft.Data.SqlClient;
 
 namespace ReustrantApp
 {
-    class Functions
+    public class Functions
     {
         private SqlConnection Con;
         private SqlCommand Cmd;
